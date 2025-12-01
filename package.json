@@ -1,0 +1,23 @@
+{
+  "name": "monad-lands-mint-listener",
+  "version": "1.0.0",
+  "description": "Mint listener for Monad Lands NFT - Discord & Twitter notifications",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "monad",
+    "nft",
+    "mint",
+    "listener",
+    "discord",
+    "twitter"
+  ],
+  "author": "AliencitosNFT",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.9.0",
+    "twitter-api-v2": "^1.15.0"
+  }
+}
